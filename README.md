@@ -1,5 +1,5 @@
 # Connect.tech 2019 talk
-# Starting out in React Native
+## Starting out in React Native
 
 You will need to install the Expo CLI. Please look at the getting started guide for installation https://facebook.github.io/react-native/docs/getting-started
 
