@@ -9,8 +9,7 @@ You will need to install the Expo CLI. Please look at the getting started guide 
 3. Select Watson Assistant and sign up for the `Lite` plan. Click `Create`
 4. Click `Launch Watson Assistant`
 5. Click on the `Skills` icon on the left hand side
-6. On the My first skill card. Click on the three dots and select `View API Details`
- - Copy an paste the Username, Password and Skill ID in the Assistant.js file
+6. On the My first skill card. Click on the three dots and select `View API Details`. Copy an paste the Username, Password and Skill ID in the Assistant.js file
 6. Click on `My first skill`
 7. In the upper right of the screen click on the three dots to `Import`
 8. Use the skill-Are-you-Rob-Base.json file in the text to upload. It should give you the same dialog and intents from the demo
